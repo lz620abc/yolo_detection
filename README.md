@@ -1,6 +1,6 @@
 
 Train a YOLOv5 model on a custom dataset.
-datasets download from lz620abcd@163.com.
+Please contact us to download the dataset lz620abcd@163.com.
 
 **0.Setup**
 ------
